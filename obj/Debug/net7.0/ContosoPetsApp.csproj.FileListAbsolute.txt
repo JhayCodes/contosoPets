@@ -1,0 +1,15 @@
+D:\ProgramPractice\C#\ConsoleApp\ContosoPetsApp\bin\Debug\net7.0\ContosoPetsApp.exe
+D:\ProgramPractice\C#\ConsoleApp\ContosoPetsApp\bin\Debug\net7.0\ContosoPetsApp.deps.json
+D:\ProgramPractice\C#\ConsoleApp\ContosoPetsApp\bin\Debug\net7.0\ContosoPetsApp.runtimeconfig.json
+D:\ProgramPractice\C#\ConsoleApp\ContosoPetsApp\bin\Debug\net7.0\ContosoPetsApp.dll
+D:\ProgramPractice\C#\ConsoleApp\ContosoPetsApp\bin\Debug\net7.0\ContosoPetsApp.pdb
+D:\ProgramPractice\C#\ConsoleApp\ContosoPetsApp\obj\Debug\net7.0\ContosoPetsApp.csproj.AssemblyReference.cache
+D:\ProgramPractice\C#\ConsoleApp\ContosoPetsApp\obj\Debug\net7.0\ContosoPetsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramPractice\C#\ConsoleApp\ContosoPetsApp\obj\Debug\net7.0\ContosoPetsApp.AssemblyInfoInputs.cache
+D:\ProgramPractice\C#\ConsoleApp\ContosoPetsApp\obj\Debug\net7.0\ContosoPetsApp.AssemblyInfo.cs
+D:\ProgramPractice\C#\ConsoleApp\ContosoPetsApp\obj\Debug\net7.0\ContosoPetsApp.csproj.CoreCompileInputs.cache
+D:\ProgramPractice\C#\ConsoleApp\ContosoPetsApp\obj\Debug\net7.0\ContosoPetsApp.dll
+D:\ProgramPractice\C#\ConsoleApp\ContosoPetsApp\obj\Debug\net7.0\refint\ContosoPetsApp.dll
+D:\ProgramPractice\C#\ConsoleApp\ContosoPetsApp\obj\Debug\net7.0\ContosoPetsApp.pdb
+D:\ProgramPractice\C#\ConsoleApp\ContosoPetsApp\obj\Debug\net7.0\ContosoPetsApp.genruntimeconfig.cache
+D:\ProgramPractice\C#\ConsoleApp\ContosoPetsApp\obj\Debug\net7.0\ref\ContosoPetsApp.dll
