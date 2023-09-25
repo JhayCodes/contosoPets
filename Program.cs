@@ -277,7 +277,30 @@ do
             break;
         case "3":
             //Ensure animal ages and physical descriptions are complete
-            Console.WriteLine("Challenge Project - please check back soon to see progress.");
+            int updatePetAge;
+            bool validAge = false;
+            for (int i = 0; i < maxPets; i++)
+            {
+                if (ourAnimals[i, 0] != "ID #: ")
+                {
+                    //on Console.WriteLine($"Enter an age for {ourAnimals[i, 0]}");
+                    if (ourAnimals[i, 2] == "Age: ?")
+                    {
+                        while (validAge == false)
+                        {
+                            Console.WriteLine($"Enter an age for {ourAnimals[i, 0]}");
+                            readResult = Console.ReadLine();
+
+                            validAge = int.TryParse(readResult, out updatePetAge);
+                            if (validAge == true)
+                                ourAnimals[i, 2] = "Age: " + animalAge;
+                        }
+                    }
+                    else if(ourAnimals[i,4] == )
+
+
+                }
+            }
             Console.WriteLine("Press the Enter key to continue.");
             readResult = Console.ReadLine();
             break;
